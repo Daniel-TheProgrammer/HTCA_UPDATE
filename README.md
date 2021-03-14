@@ -1,7 +1,4 @@
-# SMV High School Website 
-
-
-[Credit](http://hrshadhin.me)
+# HTCA
 
 # usage
     npm install
