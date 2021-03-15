@@ -1,10 +1,5 @@
 # HTCA
-
-# usage
-    npm install
-    npm run dev
-    #or
-    npm run build
+# DOwnload Vs code and Run the frontend on Browser
 
 
 
